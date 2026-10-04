@@ -1,0 +1,8 @@
+.env
+.env.*
+!.env.example
+vendor/
+*.log
+.vercel/
+public/uploads/*
+!public/uploads/.gitkeep
